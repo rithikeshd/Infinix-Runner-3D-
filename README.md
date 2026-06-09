@@ -1,6 +1,6 @@
 INFINIX RUNNER 3D :
 
-INFINIX RUNNER 3D is a browser-based endless runner built with Three.js. Experience fast-paced gameplay, futuristic neon visuals, character upgrades, daily challenges, power-ups, leaderboards, and a polished AAA-inspired user experience.
+INFINIX RUNNER 3D is a browser-based and apk endless runner built with Three.js. Experience fast-paced gameplay, futuristic neon visuals, character upgrades, daily challenges, power-ups, leaderboards, and a polished AAA-inspired user experience.
 
 Features
 3D Endless Runner
